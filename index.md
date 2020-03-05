@@ -1,6 +1,9 @@
 # Bem vindos ao PHP Poket
-A intenção é fazer um resumo do que ando aprendendo nos cursos da Alura e Cod3r sobre PHP.
+A intenção é fazer um resumo do que ando aprendendo na linguagem PHP, não é de intuito deixar uma referência completa sobre a linguagem mas sim algo que sejá o básico para construção de algum sistema ou website simples.
 ___
+## Bibliografia
+Todo contéudo abordado aqui é o meu entendimento baseado nos cursos da Alura, Cod3r, livro Desenvolvimento web com PHP e Mysql - Casa do Código - Evaldo Junior Bento e entre outras. Estou pegando o conteúdo e tentando deixar o mais simples possível para futuras consultas e para consultas de outras pessoas também.  
+
 ## Instalação
 
 Existe algumas maneiras de fazer a instalação do PHP no Windows:
@@ -56,9 +59,7 @@ Aqui  constará minhas observações e anotações para tentar deixar o conteúd
 
 Então vamos começar!
 
-**Tag** 
-
-O PHP é uma linguagem que pode ser colocada ou não dentro de um código HTML, por isso usamos dois tipos de tags em php.
+**Tag** O PHP é uma linguagem que pode ser colocada ou não dentro de um código HTML, por isso usamos dois tipos de tags em php.
 
 ##### Tradicional:
 ```PHP
@@ -100,9 +101,29 @@ ___
         Para declar uma váriavel em php é necessário colobar  
         o simbolo $ e logo em seguida o nome da variavel.
     */
-    &nome = "Mario";
+    $nome = "Mario";
 
     /* acima declaramos uma variavel que recebe como valor   
     o nome Mario. */
 ```
+
+**Comentários** comentários são usados para "desativar um trecho de código", comentar para que server aquele bloco de código e etc..  
+
+```PHP
+<?php
+    /*Comentário de várias linhas
+     como podemos ver*/
+
+     //comentário de uma única linha
+     
+    //$nome = "Mario";  ** NOTE QUE COMENTAMOS UMA LINHA DE CÓDIGO **
+    
+    echo 'Meu nome é: '.$nome;
+
+    saida sera "Meu nome é: "
+
+    /* acima declaramos uma variavel que recebe como valor   
+    o nome Mario. */
+```
+
 
