@@ -59,7 +59,7 @@ Aqui  constará minhas observações e anotações para tentar deixar o conteúd
 
 Então vamos começar!
 
-**Tag** O PHP é uma linguagem que pode ser colocada ou não dentro de um código HTML, por isso usamos dois tipos de tags em php.
+**Tag:** O PHP é uma linguagem que pode ser colocada ou não dentro de um código HTML, por isso usamos dois tipos de tags em php.
 
 ##### Tradicional:
 ```PHP
@@ -94,7 +94,7 @@ Essa tag simplificada não há necessidade de usar o comando "echo" para poder i
      ?>
 ```
 ___
-**Váriavéis** como o próprio nome já diz, é algo que muda, utilizamos variavéis para armazenar determinado valor na memória e depos acessar o mesmo.
+**Váriavéis:** Como o próprio nome já diz, é algo que muda, utilizamos variavéis para armazenar determinado valor na memória e depos acessar o mesmo.
 ```PHP
 <?php
     /*
@@ -107,7 +107,7 @@ ___
     o nome Mario. */
 ```
 
-**Comentários** comentários são usados para "desativar um trecho de código", comentar para que server aquele bloco de código e etc..  
+**Comentários:** São usados para "desativar um trecho de código", comentar para que server aquele bloco de código e etc..  
 
 ```PHP
 <?php
