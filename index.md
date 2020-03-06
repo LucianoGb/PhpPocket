@@ -125,5 +125,11 @@ ___
     /* acima declaramos uma variavel que recebe como valor   
     o nome Mario. */
 ```
+**Tipos:** Acima vimos como declarar váriavéis, diferente de outras linguagens de programação como JAVA o PHP não precisa declarar o tipo da variavel. Abaixo iremos ver os tipos primitivos em PHP:
 
+-Inteiro -> Números inteiros ex: {..., -2, -1, 0, 1, 2, ...}.  
+-String -> Texto.  
+-Boleando-> Verdadeiro ou Falso.  
+-Fload-> Números de ponto flutuantes ex: 9.5 .  
 
+Para saber mais https://www.php.net/manual/pt_BR/language.types.php
